@@ -1,16 +1,36 @@
-# flutter_praktikum_4
+# 🎵 Flutter Project - Music Player UI
 
-A new Flutter project.
+A simple Flutter app that showcases a dark-themed music player interface.  
+This project demonstrates the use of layout widgets like *Row*, *Expanded*, and *Flexible* to create a responsive bottom control bar.
 
-## Getting Started
+## 🧩 Preview
+The app shows:
+- A *dark theme* background for a modern music player vibe.
+- An *AppBar* titled *“Pemutar Musik”*.
+- A bottom control bar with music control icons:
+  - 🔀 Shuffle  
+  - ⏮️ Previous  
+  - ▶️ Play (larger icon)  
+  - ⏭️ Next  
+  - 🔁 Repeat  
 
-This project is a starting point for a Flutter application.
+## 💡 Result
+When you run the app, the interface will look like this:
+```
+-----------------------------------
+|         Pemutar Musik           |
+|                                 |
+|         Pemutar Musik           |
+|                                 |
+| 🔀  ⏮️   ▶️   ⏭️   🔁             |
+-----------------------------------
+```
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Used
+- *Flutter SDK*
+- *Dart Language*
+- *Material Design*
+- *Dark Theme UI*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ *A sleek and minimalist music player layout built with Flutter’s flexible widget system!*
+````
